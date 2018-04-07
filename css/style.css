@@ -1,0 +1,20 @@
+
+body {
+    background: #000;
+    text-align: center;
+    color: #fff;
+}
+a{
+    color:yellow;
+}
+
+#canvas{
+    position:absolute;
+    bottom: 0px;
+    left: 25%
+}
+#audioDemo{
+    position:absolute;
+    bottom: 0px;
+    left: 0%
+}
